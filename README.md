@@ -12,7 +12,7 @@ Enhancing navigation efficiency in dynamic environments with a ROS-based multi-a
 
 Single-robot Autonomously reaching goal avoiding dynamic obstacles using RRT* - 
 
-![image1](https://github.com/srijanpal07/MultiAgent-PathPlanning-ROS-SLAM/blob/main/path_planning_using_rrt.png)
+![image1](https://github.com/srijanpal07/MultiAgent-PathPlanning-ROS-SLAM/blob/main/path_planning_using_rrt.png | width=100)
 
 Multi-robot Autonomous Exploration using RRT* - 
 
