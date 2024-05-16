@@ -12,3 +12,5 @@ Enhancing navigation efficiency in dynamic environments with a ROS-based multi-a
 
 ![image1](https://github.com/srijanpal07/MultiAgent-PathPlanning-ROS-SLAM/blob/main/path_planning_using_rrt.png)
 
+![image2](https://github.com/srijanpal07/MultiAgent-PathPlanning-ROS-SLAM/blob/main/Multi-rrt-explore.png)
+
